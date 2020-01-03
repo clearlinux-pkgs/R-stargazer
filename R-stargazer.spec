@@ -4,7 +4,7 @@
 #
 Name     : R-stargazer
 Version  : 5.2.2
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/stargazer_5.2.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/stargazer_5.2.2.tar.gz
 Summary  : Well-Formatted Regression and Summary Statistics Tables
